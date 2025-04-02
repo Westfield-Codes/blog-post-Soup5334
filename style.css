@@ -41,8 +41,9 @@ table {
 img { 
    width: 150px;
 }
-.fails {
+.fail {
   color:red;
+  place-self: ;
 }
 td {
   height: 150px;
