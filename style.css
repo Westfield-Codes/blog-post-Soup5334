@@ -36,7 +36,7 @@ html {
 
 /* NEW CSS HERE */
 
-img { 
+table img { 
    width: 150px;
 }
 .fail {
@@ -59,8 +59,8 @@ td {
 .caption {
   width: 400px; height: 200px
 }
-.bigimage {
-  
+.banner {
+  width: 100%;
 }
 
 
