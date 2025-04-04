@@ -57,10 +57,13 @@ td {
   color: orangered;
 }
 .caption {
-  width: 400px; height: 200px
+  width: 400px; 
+  height: 200px;
+ 
 }
 .banner {
   width: 100%;
 }
+
 
 
