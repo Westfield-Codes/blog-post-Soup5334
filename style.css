@@ -64,6 +64,10 @@ td {
 .banner {
   width: 100%;
 }
-
-
+#rainbow {
+  color:mediumslateblue;
+}
+#blogcomments{
+  color: mediumpurple;
+} 
 
