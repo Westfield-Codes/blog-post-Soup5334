@@ -46,7 +46,7 @@ table img {
 td {
   height: 150px;
   border-top: 2px solid black;
-  padding: 5px;
+  padding: 10px;
 }
 .pass {
   color: green;
