@@ -11,8 +11,45 @@ body {
         float: right;
         margin-left: 20px;
     }
-    table ul li {
-        top-al
-    }
+   
+table img { 
+    width: 150px;
+ }
+ .fail {
+   color:red;
+   place-self: ;
+ }
+ td {
+   height: 150px;
+   border-top: 2px solid black;
+   padding: 10px;
+ }
+ .pass {
+   color: green;
+ }
+ 
+ 
+ .except {
+   color: orangered;
+ }
+ .caption {
+   width: 400px; 
+   height: 200px;
+  
+ }
+ .banner {
+   width: 100%;
+ }
+ #rainbow {
+   color:mediumslateblue;
+ }
+ #blogcomments{
+   color: rgb(237, 167, 255);
+ } 
+ .pfp {
+   font-size: 1.2rem; 
+ }
 
-    
+.card {
+    background-color: lavenderblush;
+}
